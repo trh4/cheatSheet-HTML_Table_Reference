@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Red Hat Mono',serif;
+}
+h2{
+    color: rgb(0, 47, 255);;
+}
+table{
+    border: 2px solid rgb(3, 41, 207);
+    width:80%;
+}
+th,td{
+    border-bottom: 1px solid rgb(3, 41, 207);
+    font-size:medium;
+}
+th{
+    font-weight: bold;
+    font-size: larger;
+    background-color: rgba(131, 154, 255, 0.562);
+}
+td{
+    text-align: left;
+}
+.mono{
+    background-color: rgba(128, 128, 128, 0.301);
+    font-family: monospace,sans-serif;
+}
